@@ -1,0 +1,6 @@
+1. Component
+2. crud oparation
+3. Pagination
+4. Localigation
+5. cache
+6. Mail
